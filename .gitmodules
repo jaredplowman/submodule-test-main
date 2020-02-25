@@ -1,0 +1,3 @@
+[submodule "__Platform"]
+	path = __Platform
+	url = https://USNR-Opt@dev.azure.com/USNR-Opt/MillGenius/_git/Platform
